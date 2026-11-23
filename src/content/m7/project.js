@@ -1,0 +1,20 @@
+// STUB PENDENTE — projeto do módulo ainda não escrito.
+export default {
+  id: 'p7',
+  moduleId: 'm7',
+  name: 'Projeto pendente',
+  tagline: '',
+  context: '',
+  objective: '',
+  description: [],
+  functionalRequirements: [],
+  technicalRequirements: [],
+  businessRules: [],
+  suggestedStructure: { lang: 'plaintext', code: '' },
+  steps: [],
+  evaluationCriteria: [],
+  checklist: [],
+  extraChallenges: [],
+  hints: [],
+  solution: [],
+}
